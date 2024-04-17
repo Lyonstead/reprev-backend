@@ -1,0 +1,6 @@
+data_path: "./dataset" # Points to the directory containing the `food_rating` folder
+dataset: "food_rating_dataset"
+epochs: 10
+learner: adam
+learning_rate: 0.001
+batch_size: 128
